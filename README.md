@@ -1,2 +1,2 @@
 # project1
-This repo used to develop my basic program knowledge
+This repo used to develop my basic program knowledge.
